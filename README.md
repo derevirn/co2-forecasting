@@ -1,2 +1,4 @@
 # co2-forecasting
-Forecasting Atmospheric Carbon Dioxide with Classical and Machine Learning Models.
+Forecasting atmospheric CO2 concentration with classical, machine learning and deep learning models, by using the darts library.
+
+![Exponential Smoothing](img/exp_smooth.png)
