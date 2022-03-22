@@ -3,4 +3,5 @@ Forecasting atmospheric CO2 concentration with classical, machine learning and d
 
 ![Exponential Smoothing](img/exp_smooth.png)
 
-[Towards Data Science Article](https://towardsdatascience.com/forecasting-atmospheric-co2-concentration-with-python-c4a99e4cf142)
+### Towards Data Science Article:
+[Forecasting Atmospheric CO2 with Python](https://towardsdatascience.com/forecasting-atmospheric-co2-concentration-with-python-c4a99e4cf142)
